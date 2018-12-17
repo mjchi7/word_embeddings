@@ -14,3 +14,7 @@ Issue: `sh` scripts can't be ran on windows. Wait for main macbook to finish rep
 
 ## Future
 - Implements GloVe, fastText, ELMo
+
+
+## Question to be answered (but not urgent) 
+- NCE loss allows multiple True label. How do I navigate this "multiple" true answer during evaluation time?
